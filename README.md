@@ -21,6 +21,7 @@ This set of documentation shows common BI steps at both a conceptual level and h
 - Use screenshots saved in static folders organized in a thoughtful way
 - State versions of software used in examples
 - Videos are good, visuals are good
+- We will value readability and understanding before optimization & min/maxing
 
 ## Tools
 
@@ -194,3 +195,14 @@ Build this repo with collaboration in mind. Setup repo to accept PR's from other
 
 - Publishing
 - Debugging/Performance
+
+### Example Project
+
+- Input
+- Prep
+- Visualization
+- Interaction
+- Accessibility
+- Host
+- Update/Refresh
+- Share
