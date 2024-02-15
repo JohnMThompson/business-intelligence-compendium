@@ -22,6 +22,7 @@ This set of documentation shows common BI steps at both a conceptual level and h
 - State versions of software used in examples
 - Videos are good, visuals are good
 - We will value readability and understanding before optimization & min/maxing
+- When using database connections, we will favor using sqlite since it can be packaged with training materials easily and requires no installation.
 
 ## Tools
 
@@ -48,7 +49,7 @@ I will stick to the base tools that are shipped with the product or only use ven
 - R Studio
   - ggplot2
 - SQL
-  - MySQL
+  - sqlite
 - Metabase
 
 ## Collaboration
@@ -172,7 +173,7 @@ Build this repo with collaboration in mind. Setup repo to accept PR's from other
 #### Interactivity
 
 - CRUD
-- Parameterization/variables
+- Parameterization / variables
 - On-click behaviors
   - Drag to select
   - Links
